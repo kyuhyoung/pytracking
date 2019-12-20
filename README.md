@@ -1,6 +1,7 @@
 # PyTracking
 A general python framework for training and running visual object trackers, based on **PyTorch**.
 
+
 ### **News:** Code released for **DiMP**!!!
 Code now released for our new tracker **DiMP**, accepted as an Oral at ICCV 2019.  
 This release also includes many **new features**, including:  
